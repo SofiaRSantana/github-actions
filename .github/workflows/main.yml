@@ -3,7 +3,7 @@ name: Olá mundo
 
 # Define o evento que vai acionar o workflow
 # Neste caso, qualquer 'push' para o repositório
-on [push]
+on: [push]
 
 # Define os jobs e serem executados
 jobs:
